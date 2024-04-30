@@ -1,7 +1,6 @@
 # [05-Animated-Shapes]()
 
--  converted from the following apple tutorial
--  playgrounds to Xcode project
+-  converted from apple tutorial playgrounds to Xcode project
 
 # Animating Shapes
 
