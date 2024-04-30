@@ -91,6 +91,8 @@
 			isa = PBXGroup;
 			children = (
 				AB40EF812BE04B6E001E0296 /* Animated_ShapesApp.swift */,
+				AB40EF9D2BE04C52001E0296 /* TopicList.swift */,
+				AB40EF922BE04C51001E0296 /* TopicOrganizer.swift */,
 				AB40EF9E2BE04C52001E0296 /* BasicAnimation.swift */,
 				AB40EF972BE04C52001E0296 /* BasicShapes.swift */,
 				AB40EF952BE04C52001E0296 /* ComposingShapes.swift */,
@@ -106,8 +108,6 @@
 				AB40EF932BE04C51001E0296 /* ShapeSizing.swift */,
 				AB40EF992BE04C52001E0296 /* SpinningView.swift */,
 				AB40EF9C2BE04C52001E0296 /* Topic.swift */,
-				AB40EF9D2BE04C52001E0296 /* TopicList.swift */,
-				AB40EF922BE04C51001E0296 /* TopicOrganizer.swift */,
 				AB40EFA02BE04C52001E0296 /* TopicRow.swift */,
 				AB40EF832BE04B6E001E0296 /* ContentView.swift */,
 				AB40EF852BE04B6F001E0296 /* Assets.xcassets */,
