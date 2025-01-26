@@ -1,4 +1,4 @@
-# [05-Animated-Shapes]()
+# [05-Animated-Shapes](https://github.com/molab-itp/05-Animated-Shapes)
 
 -  converted from apple tutorial playgrounds to Xcode project
 
@@ -19,3 +19,8 @@ You’ll learn the basics of animating views and how to create animations – so
 ## Running the Sample Code Project
 
 Before running this sample on a physical device, select a Development Team under the Signing & Capabilities section in the project editor.
+
+# Issues
+
+- DancingDots broken
+

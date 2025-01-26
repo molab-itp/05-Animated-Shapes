@@ -26,7 +26,6 @@
 		AB40EFAD2BE04C52001E0296 /* ModifyShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB40EF9B2BE04C52001E0296 /* ModifyShapes.swift */; };
 		AB40EFAE2BE04C52001E0296 /* Topic.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB40EF9C2BE04C52001E0296 /* Topic.swift */; };
 		AB40EFAF2BE04C52001E0296 /* TopicList.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB40EF9D2BE04C52001E0296 /* TopicList.swift */; };
-		AB40EFB02BE04C52001E0296 /* BasicAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB40EF9E2BE04C52001E0296 /* BasicAnimation.swift */; };
 		AB40EFB12BE04C52001E0296 /* MatchedGeometryEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB40EF9F2BE04C52001E0296 /* MatchedGeometryEffect.swift */; };
 		AB40EFB22BE04C52001E0296 /* TopicRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB40EFA02BE04C52001E0296 /* TopicRow.swift */; };
 		AB40EFB42BE04CC6001E0296 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AB40EFB32BE04CC6001E0296 /* README.md */; };
@@ -53,7 +52,6 @@
 		AB40EF9B2BE04C52001E0296 /* ModifyShapes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModifyShapes.swift; sourceTree = "<group>"; };
 		AB40EF9C2BE04C52001E0296 /* Topic.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Topic.swift; sourceTree = "<group>"; };
 		AB40EF9D2BE04C52001E0296 /* TopicList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopicList.swift; sourceTree = "<group>"; };
-		AB40EF9E2BE04C52001E0296 /* BasicAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BasicAnimation.swift; sourceTree = "<group>"; };
 		AB40EF9F2BE04C52001E0296 /* MatchedGeometryEffect.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MatchedGeometryEffect.swift; sourceTree = "<group>"; };
 		AB40EFA02BE04C52001E0296 /* TopicRow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopicRow.swift; sourceTree = "<group>"; };
 		AB40EFB32BE04CC6001E0296 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
@@ -93,7 +91,6 @@
 				AB40EF812BE04B6E001E0296 /* Animated_ShapesApp.swift */,
 				AB40EF9D2BE04C52001E0296 /* TopicList.swift */,
 				AB40EF922BE04C51001E0296 /* TopicOrganizer.swift */,
-				AB40EF9E2BE04C52001E0296 /* BasicAnimation.swift */,
 				AB40EF972BE04C52001E0296 /* BasicShapes.swift */,
 				AB40EF952BE04C52001E0296 /* ComposingShapes.swift */,
 				AB40EF9A2BE04C52001E0296 /* CreateAShapeView.swift */,
@@ -201,7 +198,6 @@
 				AB40EFAD2BE04C52001E0296 /* ModifyShapes.swift in Sources */,
 				AB40EF842BE04B6E001E0296 /* ContentView.swift in Sources */,
 				AB40EFA72BE04C52001E0296 /* ComposingShapes.swift in Sources */,
-				AB40EFB02BE04C52001E0296 /* BasicAnimation.swift in Sources */,
 				AB40EFAE2BE04C52001E0296 /* Topic.swift in Sources */,
 				AB40EFB22BE04C52001E0296 /* TopicRow.swift in Sources */,
 				AB40EFA12BE04C52001E0296 /* DancingDots.swift in Sources */,
